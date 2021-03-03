@@ -205,8 +205,8 @@
 	],
 	"supportedAPIs": [
 		{
-			"APIType": "ESignature",
-			"DisplayName": "ESignature",
+			"apiType": "ESignature",
+			"displayName": "ESignature",
 			"packages": [
 				{
 					"name": "DocuSign.eSign.dll",
@@ -215,8 +215,8 @@
 			]
 		},
 		{
-			"APIType": "Rooms",
-			"DisplayName": "Rooms",
+			"apiType": "Rooms",
+			"displayName": "Rooms",
 			"packages": [
 				{
 					"name": "DocuSign.eSign.dll",
@@ -225,8 +225,8 @@
 			]
 		},
 		{
-			"APIType": "Click",
-			"DisplayName": "Click",
+			"apiType": "Click",
+			"displayName": "Click",
 			"packages": [
 				{
 					"name": "DocuSign.eSign.dll",
